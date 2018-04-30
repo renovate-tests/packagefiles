@@ -1,1 +1,9 @@
-{}
+{
+  "packageFiles": [
+    "package.json",
+    {
+      "packageFile": "backend/package.json",
+      "pinVersions": false
+    }
+  ]
+}
